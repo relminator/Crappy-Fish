@@ -1,6 +1,3 @@
-# Crappy Fish
- An Android Flappy Bird Clone I made a few years ago 
-
 Game: Crappy Fish
 
 Platform: Android (Mininum Android version: 2.2 Froyo)
