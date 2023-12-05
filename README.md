@@ -3,6 +3,8 @@
 
 Game: Crappy Fish
 
+![Alt text](screen01.jpg?raw=true)
+
 Platform: Android (Mininum Android version: 2.2 Froyo)
 
 Instruction: Just install the APK to your android device and have fun!
